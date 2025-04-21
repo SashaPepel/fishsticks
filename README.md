@@ -10,7 +10,7 @@ Fishsticks or fish fingers are a type of food probably invented in the United Ki
 >[!IMPORTANT]
 >Fishsticks first came about as a result of the invention of the plate froster in 1929, the first quick freezer. For rapid freezing, food needed to be in slim rectangular slabs. A suitable candidate for this freezing method was fishsticks, slivers (small, thin pieces) cut from large fish and dipped in bread crumbs for frying. 
 
-#:fish: -> :fishsticks:
+# :fish: -> :fishsticks:
 
 [FishWiki](https://simple.wikipedia.org/wiki/Fishstick)
 
