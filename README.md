@@ -5,5 +5,7 @@ Fishsticks or fish fingers are a type of food probably invented in the United Ki
 * haddock
 * almon
 * pollock
+
 ![Fish](https://aquarellepark.by/upload/2024/vidy_ryb/Karas.png)
+
 [Fish](https://simple.wikipedia.org/wiki/Fishstick)
