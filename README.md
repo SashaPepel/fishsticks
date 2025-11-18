@@ -13,3 +13,5 @@ Fishsticks or fish fingers are a type of food probably invented in the United Ki
 [FishWiki](https://simple.wikipedia.org/wiki/Fishstick)
 
 ![Fish](https://aquarellepark.by/upload/2024/vidy_ryb/Karas.png)
+
+I LOVE FISHY <3
